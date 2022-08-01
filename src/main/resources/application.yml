@@ -6,3 +6,8 @@ spring:
     user:
       name: user
       password: 1234
+
+
+jwtConfig:
+  cookieName: JwtCookie
+  secretKey: 958ACB2232269B5E17C69EB68AAA9F144796B0B7278140D34985F9C7CB6F81A7
